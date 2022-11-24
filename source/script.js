@@ -69,4 +69,6 @@ document.addEventListener('DOMContentLoaded',function(){
       openBurger2.addEventListener('click', function(){
         burger.classList.remove('display-none')
       })
+
+
 })
